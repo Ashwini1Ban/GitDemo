@@ -30,6 +30,11 @@ public class UserA {
 		System.out.println("branch code");
 	}
 	
+	void t6() 
+	{
+		System.out.println("branch code2");
+	}
+	
 	
 	
 	public static void main(String[] args) {
