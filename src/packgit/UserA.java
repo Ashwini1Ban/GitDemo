@@ -20,6 +20,11 @@ public class UserA {
 		System.out.println("goodmorning");
 	}
 	
+	void t4() 
+	{
+		System.out.println("bye");
+	}
+	
 	public static void main(String[] args) {
 		
 		UserA aa=new UserA();
