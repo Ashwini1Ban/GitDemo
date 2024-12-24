@@ -25,6 +25,13 @@ public class UserA {
 		System.out.println("bye");
 	}
 	
+	void t5() 
+	{
+		System.out.println("branch code");
+	}
+	
+	
+	
 	public static void main(String[] args) {
 		
 		UserA aa=new UserA();
