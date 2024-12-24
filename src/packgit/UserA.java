@@ -15,6 +15,10 @@ public class UserA {
 	}
 	
 	
+	void t3() 
+	{
+		System.out.println("goodmorning");
+	}
 	
 	public static void main(String[] args) {
 		
