@@ -12,6 +12,12 @@ public class userA {
 		System.out.println("hello");
 	}
 	
+	void t3()
+	{ 
+		System.out.println("userB changes");
+	}
+	
+	
 	
 	public static void main(String[] args) {
 		userA aa=new userA();
