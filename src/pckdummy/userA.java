@@ -17,6 +17,11 @@ public class userA {
 		System.out.println("userB changes");
 	}
 	
+	void branchcode()
+	{
+		System.out.println("branch code");
+	}
+	
 	
 	
 	public static void main(String[] args) {
